@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/alex07L/rocket-theme.git
-  revision: 04327a78957c59bad55738316ae4f53f3456360b
+  revision: 1d378cca600f92029da8516ef0f52a07124c7ec3
   branch: master
   specs:
     rocket-theme (0.1.0)
